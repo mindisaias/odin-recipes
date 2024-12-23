@@ -1,0 +1,11 @@
+* {
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace
+}
+
+ul,
+ol,
+li {
+    background-color: white;
+}
+
