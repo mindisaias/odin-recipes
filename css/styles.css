@@ -9,3 +9,36 @@ li {
     background-color: white;
 }
 
+.center {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.entry {
+    box-sizing: border-box;
+    height: 425px;
+    width: 425px;
+    display: inline-block;
+    padding: 20px;
+    border: auto;
+    margin: auto;
+}
+
+.name {
+    text-align: center;
+
+}
+
+.home-desc {
+    text-align: left;
+}
+
+.home-img {
+    height: 300px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
